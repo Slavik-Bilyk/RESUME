@@ -1,0 +1,58 @@
+.footer {
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    height: 300px;
+
+}
+
+.social-icon {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 10px;
+}
+
+.social-icon a {
+    width: 42px;
+    height: 42px;
+    background: rgba(217, 217, 217, 0.1);
+    display: inline-flex;
+    border-radius: 50%;
+    margin-right: 6px;
+    justify-content: center;
+    line-height: 1;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    transition: background 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.social-icon a:hover {
+    background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+    transform: scale(1.1);
+}
+
+.social-icon a img {
+    width: 40%;
+    z-index: 1;
+    transition: transform 0.3s ease-in-out; 
+}
+
+.social-icon a:hover img {
+    transform: scale(1.25); 
+}
+
+.footer-bg {
+    position: absolute;
+    width: 40%;
+    top: 0;
+    z-index: -4;
+}
+
+.footer-bg2 {
+    position: absolute;
+    width: 25%;
+    bottom: 0;
+    right: 0;
+}
+
