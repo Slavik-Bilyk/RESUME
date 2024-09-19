@@ -97,6 +97,10 @@ nav.scrolled {
     background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
 }
 
+.btn-text {
+    color: #fff;
+}
+
 .btn::before {
     content: "";
     width: 100%;
@@ -139,4 +143,5 @@ nav.scrolled {
 
 .logo {
     position: absolute;
+    width: 50px;
 }

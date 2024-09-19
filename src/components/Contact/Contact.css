@@ -17,6 +17,7 @@
     line-height: 1;
     margin-bottom: 30px;
     display: block;
+    color: #fff;
 }
 
 .contact input, .contact form textarea {
@@ -56,7 +57,9 @@
     margin-top: 20px;
     height: 50px;
     width: 100px;
-    background-color: #121212;
+    background-color: #240b0b;
+    border-radius: 20px;
+    color: #fff;
   }
 
   .contact p {

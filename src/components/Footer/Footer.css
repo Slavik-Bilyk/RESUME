@@ -5,6 +5,8 @@
     position: relative;
     overflow: hidden;
     height: 300px;
+    background: linear-gradient(90.21deg, #1b1618 -5.91%, #330331 111.58%);
+    color: #fff;
 
 }
 
@@ -17,7 +19,7 @@
 .social-icon a {
     width: 42px;
     height: 42px;
-    background: rgba(217, 217, 217, 0.1);
+    background: rgba(10, 10, 10, 0.1);
     display: inline-flex;
     border-radius: 50%;
     margin-right: 6px;
@@ -56,3 +58,7 @@
     right: 0;
 }
 
+.footer-logo {
+    width: 70px;
+    cursor: pointer;
+}

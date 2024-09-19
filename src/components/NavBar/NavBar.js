@@ -46,7 +46,7 @@ const NavigationBar = () => {
               <a href="https://www.facebook.com/djoni.djoni.58511/" target='_blank'><img src={navIcon2} alt="" /></a>
               <a href="https://www.instagram.com/vyach.ass.love/" target='_blank'><img src={navIcon3} alt="" /></a>
             </div>
-            <HashLink to="#contact" className="btn"><span>Let’s Connect</span></HashLink>
+            <HashLink to="#contact" className="btn"><span className='btn-text'>Let’s Connect</span></HashLink>
         
       </Container>
     </nav>

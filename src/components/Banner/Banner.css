@@ -13,7 +13,8 @@
     letter-spacing: 0.8px;
     line-height: 1;
     margin-bottom: 20px;
-    display: block;
+    display: block; 
+    color: #fff;
 }
 
 .banner p {
@@ -33,12 +34,12 @@
   font-size: 20px;
   margin-bottom: 16px;
   display: inline-block;
+  color: #a59f9f;
 }
 
 .main-btn {
     font-weight: 700;
     color: #fff;
-    border: 1px solid #fff;
     padding: 18px 34px;
     font-size: 18px;
     margin-left: 18px;

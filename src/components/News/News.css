@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
+    color: #fff;
 }
 
 .bg {
@@ -44,7 +45,7 @@
   }
   .email::after {
     content: "";
-    background: #fff;
+    background: black;
     border-radius: 20px;
     position: absolute;
     z-index: -1;
@@ -90,7 +91,7 @@ button.slide {
 
 .news input {
   width: 100%;
-  color: #121212;
+  color: #fff;
   font-weight: 500;
   background: transparent;
   border: 0;
