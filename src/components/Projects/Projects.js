@@ -3,6 +3,8 @@ import projImg1 from '../../images/project-img1.png'
 import projImg2 from '../../images/project-img2.png'
 import projImg3 from '../../images/project-img3.png'
 import projImg4 from '../../images/project-img4.png'
+import projImg5 from '../../images/project-img5.png'
+
 import colorSharp2 from '../../images/color-sharp2.png'
 import { Col, Container, Tab, Nav, NavLink, Row, TabContainer, TabContent } from 'react-bootstrap'
 import ProjectCard from '../ProjectCard/ProjectCard'
@@ -40,10 +42,10 @@ const projects = [
         link: 'https://slavik-bilyk.github.io/goit-markup-hw-08/',
     },
     {
-        title: 'Business startup',
-        description: 'Design development',
-        imgUrl: projImg2,
-        link: 'https://slavik-bilyk.github.io/goit-markup-hw-08/',
+        title: 'Game Store',
+        description: 'React, CSS',
+        imgUrl: projImg5,
+        link: 'https://slavik-bilyk.github.io/gamestore/',
     },
     {
         title: 'Business startup',
