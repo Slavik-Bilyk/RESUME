@@ -12,6 +12,31 @@
     margin-top: -60px;
 }
 
+.skills-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .skills-list li {
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    color: white;
+  }
+
+  .skills-list li span {
+    font-size: 18px;
+    color: rgb(231, 134, 218);
+  }
+  
+  .skills-list li::before {
+    content: "•";
+    color: #AA367C;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
 .skills h2 {
     font-size: 45px;
     font-weight: 700;
@@ -19,7 +44,7 @@
 }
 
 .skills p {
-    color: #b8b8b8;
+    color: #f0efef;
     font-size: 18px;
     letter-spacing: 0.8px;
     line-height: 1.5em;
@@ -39,6 +64,7 @@
 .skills-slider .item img {
     width: 50%;
     margin: 0 auto 15px auto;
+    margin-top: 50px;
 }
 
 .bg-image {
@@ -47,4 +73,17 @@
  bottom: 0;   
  width: 40%;
  z-index: -4;
+}
+
+.language-switcher button {
+    background: linear-gradient(90.21deg, #964977 -5.91%, #4A2FBD 111.58%);
+    margin-left: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.language-switcher button:hover {
+    background: #AA367C;
 }

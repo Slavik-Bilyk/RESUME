@@ -42,7 +42,7 @@ const NavigationBar = () => {
             </Nav>
           </div>
             <div className="social-icon">
-              <a href="#"><img src={navIcon1} alt="" /></a>
+              <a href="https://www.linkedin.com/in/vyacheslav-bilyk-08321a344/" target='_blank'><img src={navIcon1} alt="" /></a>
               <a href="https://www.facebook.com/djoni.djoni.58511/" target='_blank'><img src={navIcon2} alt="" /></a>
               <a href="https://www.instagram.com/vyach.ass.love/" target='_blank'><img src={navIcon3} alt="" /></a>
             </div>

@@ -48,8 +48,7 @@ const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <span className='tagline'>Welcome to my portfolio</span>
             <h1>My name is Viacheslav and l am: {text}</h1>
-            <p>I am 23 years old and I started programming. 
-I chose the FrondEnd direction and the JS programming language. Here you will see all my works and achievements.</p>
+            <p>I am a front-end developer with experience in JavaScript and React, focused on creating convenient, functional and modern interfaces. Worked on interactive web applications, including work with Redux, React Router, responsive design and performance optimization. I have practical experience in developing backends on Node.js using MongoDB. I constantly improve my skills and strive to create innovative solutions that benefit users.</p>
             <HashLink to="#contact" className="main-btn"><span>Let’s Connect</span></HashLink>
           </Col>
           <Col xs={12} md={6} xl={5}>
