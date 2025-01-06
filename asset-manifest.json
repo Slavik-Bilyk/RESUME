@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Resume/static/css/main.4d5d042a.css",
-    "main.js": "/Resume/static/js/main.2e73f2cf.js",
+    "main.css": "/Resume/static/css/main.a01e5d31.css",
+    "main.js": "/Resume/static/js/main.3414589f.js",
+    "static/media/Video2.mp4": "/Resume/static/media/Video2.603209662fe73e01ece1.mp4",
+    "static/media/Video1.mp4": "/Resume/static/media/Video1.991afd80e4bae870ffb3.mp4",
     "static/media/color-sharp.png": "/Resume/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Resume/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/project-img5.png": "/Resume/static/media/project-img5.33d7c32efa65d05c9c05.png",
-    "static/media/project-img1.png": "/Resume/static/media/project-img1.79e317e25c5e2a9c9caf.png",
-    "static/media/project-img2.png": "/Resume/static/media/project-img2.42877e9bf3007adc32a9.png",
     "static/media/banner-bg.png": "/Resume/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Resume/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/project-img3.png": "/Resume/static/media/project-img3.b7b0beeb64781409157d.png",
-    "static/media/project-img4.png": "/Resume/static/media/project-img4.efb8e147b1d8f210d01b.png",
     "static/media/contact-img.svg": "/Resume/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/logo.svg": "/Resume/static/media/logo.7fe055248eb4e30d32be83252bf86755.svg",
     "static/media/revicons.eot": "/Resume/static/media/revicons.a77de540a38981833f9e.eot",
@@ -23,11 +20,11 @@
     "index.html": "/Resume/index.html",
     "static/media/nav-icon1.svg": "/Resume/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/Resume/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.4d5d042a.css.map": "/Resume/static/css/main.4d5d042a.css.map",
-    "main.2e73f2cf.js.map": "/Resume/static/js/main.2e73f2cf.js.map"
+    "main.a01e5d31.css.map": "/Resume/static/css/main.a01e5d31.css.map",
+    "main.3414589f.js.map": "/Resume/static/js/main.3414589f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d5d042a.css",
-    "static/js/main.2e73f2cf.js"
+    "static/css/main.a01e5d31.css",
+    "static/js/main.3414589f.js"
   ]
 }
