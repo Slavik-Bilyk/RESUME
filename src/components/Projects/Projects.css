@@ -78,6 +78,14 @@
 
     
   }
+
+  .project-video {
+    width: 100%; 
+    height: 300px; 
+    object-fit: cover; 
+    border-radius: 10px;
+}
+
   .project-img::before {
     content: "";
     background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
